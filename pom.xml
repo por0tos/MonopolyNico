@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>change your data</groupId>
-	<artifactId>change your data</artifactId>
+	<groupId>por0tos</groupId>
+	<artifactId>MonopolyNico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -61,10 +61,9 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 
-		<sonar.organization>change your data</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>change your data</sonar.projectKey>
-		<sonar.login>change your data</sonar.login>
+  		<sonar.organization>por0tos</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>por0tos_MonopolyNico</sonar.projectKey>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
